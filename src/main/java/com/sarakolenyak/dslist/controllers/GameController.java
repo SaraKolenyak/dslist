@@ -1,7 +1,6 @@
 package com.sarakolenyak.dslist.controllers;
 
 import com.sarakolenyak.dslist.dto.GameMinDTO;
-import com.sarakolenyak.dslist.entities.Game;
 import com.sarakolenyak.dslist.services.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
